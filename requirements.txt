@@ -1,14 +1,1 @@
-tkinter
-colored
-xmlrpc
-logging
-socket
-ssl
-sys
-threading
-getopt
-re
-time
-logging
-colored
-xmlrpc.client
+tkinter colored xmlrpc-client logging socket ssl sys threading getopt re time
